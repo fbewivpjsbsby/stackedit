@@ -2,7 +2,7 @@
   <modal-inner class="modal__inner-1--about-modal" aria-label="About">
     <div class="modal__content">
       <div class="logo-background"></div>
-      StackEdit on <a target="_blank" href="https://github.com/benweet/stackedit/">GitHub</a>
+      StackEdit on GitHub (<a target="_blank" href="https://github.com/benweet/stackedit/">My fork</a> <a target="_blank" href="https://github.com/benweet/stackedit/">Upstream</a>)
       <br>
       <a target="_blank" href="https://github.com/benweet/stackedit/issues">Issue tracker</a> — <a target="_blank" href="https://github.com/benweet/stackedit/releases">Changelog</a>
       <br>
@@ -11,6 +11,8 @@
       <a target="_blank" href="https://community.stackedit.io/">Community</a> — <a target="_blank" href="https://community.stackedit.io/c/how-to">Tutos and How To</a>
       <br>
       StackEdit on <a target="_blank" href="https://twitter.com/stackedit/">Twitter</a>
+      <br>
+      <a target="_blank" href="https://liberapay.com/yunfengshi/">Support me</a> — <a target="_blank" href="https://stackedit.io/app/">Support upstream</a>
       <hr>
       <small>© 2013-2019 Dock5 Software Ltd.<br>v{{version}}</small>
       <h3>FAQ</h3>

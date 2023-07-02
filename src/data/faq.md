@@ -1,3 +1,12 @@
+**What does this fork change?**
+
+[benweet/stackedit!1830](https://github.com/benweet/stackedit/pull/1830)
+Change check offline url.
+
+**Why can not use export pdf?**
+
+This server not install software, if support me may add support.
+
 **Where is my data stored?**
 
 If your workspace is not synced, your files are stored inside your browser and nowhere else.
